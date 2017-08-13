@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView 
+	xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+	<LinearLayout
+		xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical"
+	    >
+		<TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+		    android:textAppearance="?android:attr/textAppearanceLarge"
+		    android:text="@string/chinese_checkers_rules"
+		    android:layout_marginLeft="100dp"
+		    />
+		<TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+		    android:textAppearance="?android:attr/textAppearance"
+		    android:text="@string/summary"
+		    />
+	    <ImageView 
+			xmlns:android="http://schemas.android.com/apk/res/android"
+		    android:src="@drawable/rules_3"
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    android:layout_marginTop="10dp" 
+		    android:contentDescription="@string/demo"
+	        />
+		<TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+		    android:textAppearance="?android:attr/textAppearance"
+		    android:text="@string/rules_details"
+		    />
+		<TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+		    android:textAppearance="?android:attr/textAppearanceLarge"
+		    android:text="@string/demo"
+		    android:layout_marginLeft="100dp"
+		    />
+		<LinearLayout
+			xmlns:android="http://schemas.android.com/apk/res/android"
+		    android:layout_width="match_parent"
+		    android:layout_height="350px"
+		    android:orientation="horizontal"
+		    android:id="@+id/container"
+		    android:gravity="center"
+		    android:layout_weight="1"
+		    />
+		<TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+		    android:textAppearance="?android:attr/textAppearanceLarge"
+		    android:text="@string/about_title"
+		    android:layout_marginLeft="100dp"
+		    />
+		<TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+		    android:textAppearance="?android:attr/textAppearance"
+		    android:text="@string/about"
+		    />
+		
+	    <ImageView 
+			xmlns:android="http://schemas.android.com/apk/res/android"
+		    android:id="@+id/back"
+		    android:src="@drawable/left_128"
+		    android:layout_width="match_parent"
+		    android:layout_height="64dp" 
+		    android:contentDescription="@string/back"
+	        />
+	
+	</LinearLayout>
+</ScrollView>
+	

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <dimen name="size_xl_small">22sp</dimen>
+    <dimen name="size_xl_medium">28sp</dimen>
+    <dimen name="size_xl">38sp</dimen>
+    <dimen name="size_xl_large">60sp</dimen>
+                                                                                                                                       
+</resources>

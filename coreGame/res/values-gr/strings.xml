@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Core</string>
+    <!-- Provided by Fivos Asimakop -->
+	<string name="ready">Έτοιμοι;\nΑγγίξτε την\nοθόνη!</string>
+	<string name="paused">Παύση παιχνιδιού.\nΑγγίξτε την οθόνη\nγια να συνεχίσετε.</string>
+	<string name="game_over">Τέλος παιχνιδιού!\nΑγγίξτε την\nοθόνη για\nνα ξαναξεκινήσετε.</string>
+	<string name="your_time">Ο χρόνος σας:</string>
+	<string name="game_url">bit.ly/coregame</string>
+<!-- This is the greek translation. -->
+</resources>

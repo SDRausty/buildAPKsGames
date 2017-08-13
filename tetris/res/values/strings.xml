@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tttris</string>
+    <string name="next">Next:</string>
+    <string name="score">Score:</string>
+    <string name="newGame">New game</string>
+    <string name="resumeGame">Resume game</string>
+    <string name="highScores">High Scores</string>
+	<string name="pause">\nPause\n</string>
+	<string name="resume">\nResume\n</string>
+	<string name="accesibilityLogo">"Logo"</string>
+	<string name="accesibilityCombo">"Combo"</string>
+	<string name="accesibilityNextPiece">"Next Piece"</string>
+	<string name="first">"1st"</string>
+	<string name="second">"2nd"</string>
+	<string name="third">"3rd"</string>
+	
+</resources>

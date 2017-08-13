@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="redirect_activity_is_missing_message">Redirect activity is missing!</string>
+    <string name="app_name">Tuty Fruty Slot for Android</string>
+    <string name="title_activity_splash">Tuty Fruty Slot for Android</string>
+    <string name="title_activity_slot">Tuty Fruty Slot for Android</string>
+    <string name="title_activity_help">Help</string>
+    <string name="title_activity_about">About</string>
+    <string name="help_option">Help</string>
+    <string name="about_option">About</string>
+    <string name="help_text">"  It is a really simple playing for fun slot machine. It uses random numbers and prizes are not in real money. 
+\n  The usage is very simple. Load credit and push the spin button.
+\n  Have fun!"</string>
+    <string name="about_text">"  Tuty Fruty Slot for Android is published by Velbazhd Software LLC.
+\n  This is a playing for fun slot machine game (no gambling). It has five reels, three rows and set of betting lines. 
+\n  Newer versions can be checked at: 
+\n  http://github.com/TodorBalabanov/tuty-fruty-slot-for-android"</string>
+    <string name="spin_button_label">SPIN</string>
+    <string name="payout_button_label">PAYOUT</string>
+    <string name="lines_button_label">LINES</string>
+    <string name="bet_button_label">BET</string>
+    <string name="max_bet_button_label">MAX BET</string>
+    <string name="autoplay_button_label">AUTOPLAY</string>
+    <string name="load_1000_credit_option">Load 1000 Credit</string>
+    <string name="title_activity_inner_banner">Advertisement</string>
+
+</resources>

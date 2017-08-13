@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Core</string>
+    <!-- Provided by Fivos Asimakop -->
+	<string name="ready">Bereit?\nBerühren Sie\nden Bildschirm!</string>
+	<string name="paused">Spiel ist\nunterbrochen.\nBerühren Sie\nden Bildschirm\num fortzufahren.</string>
+	<string name="game_over">Spiel zu Ende!\nBerühren Sie den\nBildschirm neu\nzu starten.</string>
+	<string name="your_time">Ihre Zeit:</string>
+	<string name="game_url">bit.ly/coregame</string>
+<!-- This is the german translation. -->
+</resources>

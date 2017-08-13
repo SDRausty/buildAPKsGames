@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.scoutant.cc"
+    android:versionCode="1" android:versionName="0.9" 
+    >
+    <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="17"/>
+    
+    <uses-feature android:name="android.hardware.touchscreen" android:required="true"/>
+	<supports-screens android:smallScreens="false" android:normalScreens="false" android:largeScreens="false" android:xlargeScreens="true" />
+	<!--  only targeting XL screens ie at least : 960dp * 720 dp -->
+	
+    <application android:icon="@drawable/chinese_checkers_512" 
+        android:label="@string/chinese_checkers"
+        android:allowBackup="false"
+        android:theme="@style/Theme.Holo.XL"
+        >
+        <activity android:name=".SplashScreenActivity" android:label="@string/chinese_checkers"  android:screenOrientation="landscape" >
+            <intent-filter>
+               <action android:name="android.intent.action.MAIN" />
+               <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".NbPlayersActivity" android:label="@string/nb_players"  android:screenOrientation="landscape" />
+        <activity android:name=".HumanVsMachineActivity" android:label="@string/human_vs_machine" android:screenOrientation="landscape" /> 
+        <activity android:name=".UI" android:label="@string/chinese_checkers" android:screenOrientation="landscape" /> 
+        <activity android:name=".MenuActivity" android:label="@string/menu" android:screenOrientation="landscape" />
+        <activity android:name=".HelpActivity" android:label="@string/help"  android:screenOrientation="landscape" />
+        <activity android:name=".RateActivity" android:label="@string/rate"  android:screenOrientation="landscape" />
+        <activity android:name=".GameOverActivity" android:label="@string/game_over"  android:screenOrientation="landscape" />
+     </application>
+</manifest>

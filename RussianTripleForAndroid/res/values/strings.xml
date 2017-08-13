@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello_world"></string>
+
+    <string-array name="bidding_values">
+        <item>-</item>
+        <item>100</item>
+        <item>101</item>
+        <item>102</item>
+        <item>103</item>
+        <item>104</item>
+        <item>105</item>
+        <item>106</item>
+        <item>107</item>
+        <item>108</item>
+        <item>109</item>
+        <item>110</item>
+        <item>111</item>
+        <item>112</item>
+        <item>113</item>
+        <item>114</item>
+        <item>115</item>
+        <item>116</item>
+        <item>117</item>
+        <item>118</item>
+        <item>119</item>
+        <item>120</item>
+        <item>121</item>
+        <item>122</item>
+        <item>123</item>
+        <item>124</item>
+        <item>125</item>
+        <item>126</item>
+        <item>127</item>
+        <item>128</item>
+        <item>129</item>
+        <item>130</item>
+        <item>131</item>
+        <item>132</item>
+        <item>133</item>
+        <item>134</item>
+        <item>135</item>
+        <item>136</item>
+        <item>137</item>
+        <item>138</item>
+        <item>139</item>
+        <item>140</item>
+        <item>141</item>
+        <item>142</item>
+        <item>143</item>
+        <item>144</item>
+        <item>145</item>
+        <item>146</item>
+        <item>147</item>
+        <item>148</item>
+        <item>149</item>
+        <item>150</item>
+        <item>151</item>
+        <item>152</item>
+        <item>153</item>
+        <item>154</item>
+        <item>155</item>
+        <item>156</item>
+        <item>157</item>
+        <item>158</item>
+        <item>159</item>
+        <item>160</item>
+        <item>161</item>
+        <item>162</item>
+        <item>163</item>
+        <item>164</item>
+        <item>165</item>
+        <item>166</item>
+        <item>167</item>
+        <item>168</item>
+        <item>169</item>
+        <item>170</item>
+        <item>171</item>
+        <item>172</item>
+        <item>173</item>
+        <item>174</item>
+        <item>175</item>
+        <item>176</item>
+        <item>177</item>
+        <item>178</item>
+        <item>179</item>
+        <item>180</item>
+        <item>181</item>
+        <item>182</item>
+        <item>183</item>
+        <item>184</item>
+        <item>185</item>
+        <item>186</item>
+        <item>187</item>
+        <item>188</item>
+        <item>189</item>
+        <item>190</item>
+        <item>191</item>
+        <item>192</item>
+        <item>193</item>
+        <item>194</item>
+        <item>195</item>
+        <item>196</item>
+        <item>197</item>
+        <item>198</item>
+        <item>199</item>
+        <item>200</item>
+    </string-array>
+
+    <string name="redirect_activity_is_missing_message">Redirect activity is missing!</string>
+    <string name="app_name">Russian Triple for Android</string>
+    <string name="title_activity_game">Russian Triple</string>
+    <string name="title_activity_splash">Russian Triple</string>
+    <string name="title_activity_help">Help</string>
+    <string name="title_activity_about">About</string>
+    <string name="title_activity_bidding">Bidding</string>
+    <string name="new_game_menu">New Game</string>
+    <string name="new_deal_menu">New Deal</string>
+    <string name="exit_menu">Exit</string>
+    <string name="help_menu">Help</string>
+    <string name="about_menu">About</string>
+    <string name="pass_caption">Pass</string>
+    <string name="plus_one_caption">+1</string>
+    <string name="plus_ten_caption">+10</string>
+    <string name="done_capion">Done</string>
+    <string name="give_card_left_caption">"\u003c"</string>
+    <string name="give_card_rigth_caption">"\u003e"</string>
+    <string name="start_playing_caption">Start</string>
+    <string name="give_up_caption">Give Up</string>
+    <string name="current_bid_label">"Last Bid: "</string>
+    <string name="player_bid_label">"Your Bid: "</string>
+    <string name="current_bid_name_label">"Player: "</string>
+    <string name="max_valid_bid_label">"Max Bid: "</string>
+
+</resources>

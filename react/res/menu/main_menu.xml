@@ -1,0 +1,5 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/restart_menuitem" android:title="@string/restart_menuitem_text" android:icon="@android:drawable/ic_menu_revert"/>
+<item android:id="@+id/highscore_menuitem" android:title="@string/highscore_menuitem_text" android:icon="@android:drawable/ic_menu_sort_by_size"/>
+<item android:id="@+id/about_menuitem" android:title="@string/about_menuitem_text" android:icon="@android:drawable/ic_menu_info_details"/>
+</menu>

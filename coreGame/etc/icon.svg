@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="864"
+   height="864"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="/home/oxygen/AndroidProjects/CoreGame/materials/market-icon.png"
+   inkscape:export-xdpi="53.330002"
+   inkscape:export-ydpi="53.330002">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3648">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3650" />
+      <stop
+         style="stop-color:#6699ff;stop-opacity:1;"
+         offset="1"
+         id="stop3652" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3648"
+       id="radialGradient3656"
+       cx="186.65163"
+       cy="951.87445"
+       fx="186.65163"
+       fy="951.87445"
+       r="384"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(6.428084,-0.01497402,0.00430026,1.8460275,-1716.4231,-521.65145)" />
+    <filter
+       inkscape:collect="always"
+       id="filter3682">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.152"
+         id="feGaussianBlur3684" />
+    </filter>
+    <inkscape:perspective
+       id="perspective3715"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3648-0"
+       id="radialGradient3656-3"
+       cx="432"
+       cy="620.36218"
+       fx="432"
+       fy="620.36218"
+       r="384"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.1562597,0,0,1.8460325,-931.5042,-524.84655)" />
+    <linearGradient
+       id="linearGradient3648-0">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3650-7" />
+      <stop
+         style="stop-color:#272640;stop-opacity:1;"
+         offset="1"
+         id="stop3652-7" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       id="filter3606">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="24.685864"
+         id="feGaussianBlur3608" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.34782452"
+     inkscape:cx="638.37009"
+     inkscape:cy="411.80818"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="693"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-188.36218)">
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;filter:url(#filter3606)"
+       id="rect3612-1"
+       width="768"
+       height="768"
+       x="337.62827"
+       y="5357.5083"
+       ry="84.795883"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0.97743366,0,0,0.9833996,-272.96878,-5014.7097)" />
+    <rect
+       style="fill:url(#radialGradient3656);fill-opacity:1;fill-rule:evenodd;stroke:none;filter:url(#filter3682)"
+       id="rect3612"
+       width="768"
+       height="768"
+       x="48"
+       y="236.36218"
+       ry="84.795883"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="rect3638"
+       width="6.0988235"
+       height="2.0329411"
+       x="156.53647"
+       y="126.04235"
+       transform="translate(0,188.36218)"
+       ry="1.0164706" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#fdfdf7;fill-opacity:1;fill-rule:nonzero;stroke:#f9fafc;stroke-opacity:1"
+       id="path3791"
+       sodipodi:cx="438.43948"
+       sodipodi:cy="438.49808"
+       sodipodi:rx="110.688"
+       sodipodi:ry="106.37548"
+       d="m 549.12749,438.49808 c 0,58.74955 -49.55671,106.37548 -110.68801,106.37548 -61.13129,0 -110.688,-47.62593 -110.688,-106.37548 0,-58.74956 49.55671,-106.37548 110.688,-106.37548 61.1313,0 110.68801,47.62592 110.68801,106.37548 z"
+       transform="matrix(1.7389791,0,0,1.7824513,-417.43556,-68.490825)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#fafcfb;stroke-width:82.17008209;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3809"
+       sodipodi:cx="1530.9445"
+       sodipodi:cy="322.06006"
+       sodipodi:rx="438.43948"
+       sodipodi:ry="438.43948"
+       d="m 1358.1858,-80.908462 c 222.5534,-95.411968 480.3152,7.656499 575.7272,230.209872 65.54,152.87545 38.9289,329.67344 -68.7084,456.48276"
+       transform="matrix(0.8375198,-0.08367398,0.07885438,0.81571861,-957.29738,570.34277)"
+       sodipodi:start="4.3073759"
+       sodipodi:end="6.9869895"
+       sodipodi:open="true" />
+  </g>
+</svg>

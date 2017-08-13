@@ -1,0 +1,249 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <ImageView
+        android:id="@+id/backgroud_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="0dp"
+        android:src="@drawable/background" />
+
+    <ImageView
+        android:id="@+id/symbol00"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="46dp"
+        android:layout_marginTop="63dp"
+        android:src="@drawable/symbol00" />
+
+    <ImageView
+        android:id="@+id/symbol10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="88dp"
+        android:layout_marginTop="63dp"
+        android:src="@drawable/symbol01" />
+
+    <ImageView
+        android:id="@+id/symbol20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="130dp"
+        android:layout_marginTop="63dp"
+        android:src="@drawable/symbol02" />
+
+    <ImageView
+        android:id="@+id/symbol30"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="172dp"
+        android:layout_marginTop="63dp"
+        android:src="@drawable/symbol03" />
+
+    <ImageView
+        android:id="@+id/symbol40"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="214dp"
+        android:layout_marginTop="63dp"
+        android:src="@drawable/symbol04" />
+  
+    <ImageView
+        android:id="@+id/symbol01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="46dp"
+        android:layout_marginTop="100dp"
+        android:src="@drawable/symbol05" />
+
+    <ImageView
+        android:id="@+id/symbol11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="88dp"
+        android:layout_marginTop="100dp"
+        android:src="@drawable/symbol06" />
+
+    <ImageView
+        android:id="@+id/symbol21"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="130dp"
+        android:layout_marginTop="100dp"
+        android:src="@drawable/symbol07" />
+
+    <ImageView
+        android:id="@+id/symbol31"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="172dp"
+        android:layout_marginTop="100dp"
+        android:src="@drawable/symbol08" />
+
+    <ImageView
+        android:id="@+id/symbol41"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="214dp"
+        android:layout_marginTop="100dp"
+        android:src="@drawable/symbol09" />
+    
+    <ImageView
+        android:id="@+id/symbol02"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="46dp"
+        android:layout_marginTop="136dp"
+        android:src="@drawable/symbol00" />
+
+    <ImageView
+        android:id="@+id/symbol12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="88dp"
+        android:layout_marginTop="136dp"
+        android:src="@drawable/symbol01" />
+
+    <ImageView
+        android:id="@+id/symbol22"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="130dp"
+        android:layout_marginTop="136dp"
+        android:src="@drawable/symbol02" />
+
+    <ImageView
+        android:id="@+id/symbol32"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="172dp"
+        android:layout_marginTop="136dp"
+        android:src="@drawable/symbol03" />
+
+    <ImageView
+        android:id="@+id/symbol42"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="214dp"
+        android:layout_marginTop="136dp"
+        android:src="@drawable/symbol04" />
+
+    <TextView
+        android:id="@+id/single_bet_value"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="36dp"
+        android:layout_marginTop="194dp"
+        android:text="00"
+        android:textColor="@color/digits_color" />
+
+    <TextView
+        android:id="@+id/active_lines_value"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="68dp"
+        android:layout_marginTop="194dp"
+        android:text="00"
+        android:textColor="@color/digits_color" />
+
+    <TextView
+        android:id="@+id/total_bet_value"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="110dp"
+        android:layout_marginTop="194dp"
+        android:text="0000"
+        android:textColor="@color/digits_color" />
+
+    <TextView
+        android:id="@+id/winner_paied_value"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="164dp"
+        android:layout_marginTop="194dp"
+        android:text="000000"
+        android:textColor="@color/digits_color" />
+
+    <TextView
+        android:id="@+id/credit_value"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="224dp"
+        android:layout_marginTop="194dp"
+        android:text="000000"
+        android:textColor="@color/digits_color" />
+
+    <Button
+        android:id="@+id/spin_button"
+        android:layout_width="45sp"
+        android:layout_height="25sp"
+        android:layout_alignBottom="@+id/backgroud_image"
+        android:layout_alignRight="@+id/backgroud_image"
+        android:layout_marginRight="30dp"
+        android:text="@string/spin_button_label"
+        android:textSize="5sp" />
+
+    <Button
+        android:id="@+id/payout_button"
+        android:layout_width="45sp"
+        android:layout_height="25sp"
+        android:layout_alignBottom="@+id/backgroud_image"
+        android:layout_alignLeft="@+id/backgroud_image"
+        android:layout_marginLeft="30dp"
+        android:text="@string/payout_button_label"
+        android:textSize="5sp" />
+
+    <Button
+        android:id="@+id/lines_button"
+        android:layout_width="45sp"
+        android:layout_height="25sp"
+        android:layout_alignBottom="@+id/backgroud_image"
+        android:layout_alignLeft="@+id/backgroud_image"
+        android:layout_marginLeft="70dp"
+        android:text="@string/lines_button_label"
+        android:textSize="5sp" />
+
+    <Button
+        android:id="@+id/bet_button"
+        android:layout_width="45sp"
+        android:layout_height="25sp"
+        android:layout_alignBottom="@+id/backgroud_image"
+        android:layout_alignLeft="@+id/backgroud_image"
+        android:layout_marginLeft="110dp"
+        android:text="@string/bet_button_label"
+        android:textSize="5sp" />
+
+    <Button
+        android:id="@+id/max_bet_button"
+        android:layout_width="45sp"
+        android:layout_height="25sp"
+        android:layout_alignBottom="@+id/backgroud_image"
+        android:layout_alignLeft="@+id/backgroud_image"
+        android:layout_marginLeft="150dp"
+        android:text="@string/max_bet_button_label"
+        android:textSize="5sp" />
+
+    <Button
+        android:id="@+id/autoplay_button"
+        android:layout_width="45sp"
+        android:layout_height="25sp"
+        android:layout_alignBottom="@+id/backgroud_image"
+        android:layout_alignLeft="@+id/backgroud_image"
+        android:layout_marginLeft="190dp"
+        android:text="@string/autoplay_button_label"
+        android:textSize="5sp" />
+    
+</RelativeLayout>

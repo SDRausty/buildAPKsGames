@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">React!</string>
+    <string name="restart_menuitem_text">Restart</string>
+	<string name="highscore_menuitem_text">High Score</string>
+	<string name="about_menuitem_text">About</string>
+	<string name="no_high_score">No high score!</string>
+	<string name="about_text">React! $VERSION$\n\nby Mobile Pearls\nhttp://mobilepearls.com/</string>
+</resources>

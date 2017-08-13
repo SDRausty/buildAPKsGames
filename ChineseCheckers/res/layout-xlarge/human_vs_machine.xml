@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <FrameLayout 
+		xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:id="@+id/container"
+	    android:layout_width="800dp"
+	    android:layout_height="680dp"
+	    android:layout_centerInParent="true"
+        >
+	   	<CheckBox xmlns:android="http://schemas.android.com/apk/res/android"
+		    android:id="@+id/player_0"
+		    android:button="@drawable/human_machine_checkbox_selector"
+		    android:layout_width="192dp" android:layout_height="192dp"
+		    android:translationX="300dp"
+		    android:translationY="450dp"
+	    	/>
+	   	<CheckBox xmlns:android="http://schemas.android.com/apk/res/android"
+		    android:id="@+id/player_1"
+		    android:button="@drawable/human_machine_checkbox_selector"
+		    android:layout_width="192dp" android:layout_height="192dp"
+		    android:translationX="50dp"
+		    android:translationY="350dp"
+		    android:checked="true"
+		    />
+	   	<CheckBox xmlns:android="http://schemas.android.com/apk/res/android"
+		    android:id="@+id/player_2"
+		    android:button="@drawable/human_machine_checkbox_selector"
+		    android:layout_width="192dp" android:layout_height="192dp"
+		    android:scaleType="fitXY"
+		    android:translationX="50dp"
+		    android:translationY="150dp"
+		    android:checked="true"
+	    	/>
+	   	<CheckBox xmlns:android="http://schemas.android.com/apk/res/android"
+		    android:id="@+id/player_3"
+		    android:button="@drawable/human_machine_checkbox_selector"
+		    android:layout_width="192dp" android:layout_height="192dp"
+		    android:translationX="300dp"
+		    android:translationY="0dp"
+		    android:checked="true"
+		    />
+	   	<CheckBox xmlns:android="http://schemas.android.com/apk/res/android"
+		    android:id="@+id/player_4"
+		    android:button="@drawable/human_machine_checkbox_selector"
+		    android:layout_width="192dp" android:layout_height="192dp"
+		    android:translationX="550dp"
+		    android:translationY="150dp"
+		    android:checked="true"
+	    	/>
+	   	<CheckBox xmlns:android="http://schemas.android.com/apk/res/android"
+		    android:id="@+id/player_5"
+		    android:button="@drawable/human_machine_checkbox_selector"
+		    android:layout_width="192dp" android:layout_height="192dp"
+		    android:translationX="550dp"
+		    android:translationY="350dp"
+		    android:checked="true"
+		    />
+	</FrameLayout>
+	<!-- 
+   	<ImageView 
+		xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:id="@+id/play"
+	    android:src="@drawable/checkmark_256"
+	    android:layout_width="192dp"
+    	android:layout_height="match_parent"
+    	android:layout_marginRight="40dp"
+	    android:scaleType="centerInside"
+	    android:layout_alignParentRight="true"
+	    android:layout_centerHorizontal="true"
+        />
+	 -->
+    <ImageButton 
+		xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:id="@+id/play"
+	    android:src="@drawable/checkmark_256"
+	    android:layout_width="wrap_content"
+    	android:layout_height="match_parent"
+	    android:layout_gravity="right|center_vertical"
+	    android:background="@android:color/transparent"
+	    android:scaleType="fitCenter"
+	    android:layout_alignParentRight="true"
+	    android:layout_centerHorizontal="true"
+        />   	
+</RelativeLayout>

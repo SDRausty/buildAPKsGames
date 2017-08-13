@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Thugaim</string>
+  <string name="instructions">
+    Willkommen! Es scheint, als würde deine Arbeit bei der Transportagentur für
+    Raumfahrtminerale von Raumfahrtpiraten gestört werden. Sie haben Stationen
+    errichtet, die sie einsetzen, um die Güter deines Teams einzufangen! Deine
+    neue Aufgabe ist es, diese Stationen zu zerstören, aber das wird nicht ohne
+    einen Kampf passieren. Viel Glück! Scrolle für mehr Informationen runter.
+  </string>
+  <string name="instructions_rotate">
+    Kippe dein Gerät, um dein Raumschiff zu steuern.
+  </string>
+  <string name="instructions_fire">
+    Tippe auf deinen Bildschirm, um deine Gschosse zu schießen.
+  </string>
+  <string name="instructions_playarea">
+    Der Spielbereich ist begrenzt. Fahre nicht durch Wände, die so aussehen.
+  </string>
+  <string name="enable_music">Musik aktivieren</string>
+  <string name="continue_t">Fortsetzen</string>
+  <string name="level_number_indicator">Lvl. %d</string>
+  <string name="level_complete">LEVEL ABGESCHLOSSEN</string>
+  <string name="menu_quit">Beenden</string>
+  <string name="checkpoint_reached">
+    Du hast einen Checkpoint erreicht. Wenn du versagst, kommst du zum nächsten
+    Level zurück.
+  </string>
+  <string name="game_over_win">
+    Du hast es geschafft! Deine Güter sollten jetzt problemlos ihr Ziel
+    erreichen. Danke für die gute Arbeit!
+  </string>
+  <string name="game_over_lose">
+    Autsch! Ich habe dir gesagt, dass es nicht einfach werden würde.
+  </string>
+  <string name="restart_t">Erneut versuchen</string>
+  <string name="quit_t">Beenden</string>
+  <string name="fatal_error">Schwerer Ausnahmefehler</string>
+  <string name="load_levels_exception">
+    Konnte nicht starten, weil die Levels nicht geladen werden konnten.
+  </string>
+</resources>

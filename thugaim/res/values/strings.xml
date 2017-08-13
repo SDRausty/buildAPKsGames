@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Thugaim</string>
+  <string name="instructions">
+    Welcome! It appears that your work with the Space Minerals Transport Agency
+    is being disrupted by space pirates. They\'ve set up stations which they\'re
+    using to capture your team\'s cargo! Your new job is to destroy these
+    stations, but that won\'t happen without a fight. Good luck! Scroll down for
+    more information.
+  </string>
+  <string name="instructions_rotate">
+    Tilt your device to steer your ship.
+  </string>
+  <string name="instructions_fire">
+    Tap the screen to fire projectiles.
+  </string>
+  <string name="instructions_playarea">
+    The area of play is limited. Do not pass walls that look like this.
+  </string>
+  <string name="enable_music">Enable Music</string>
+  <string name="continue_t">Continue</string>
+  <string name="level_number_indicator">Lvl. %d</string>
+  <string name="level_complete">LEVEL COMPLETE</string>
+  <string name="menu_quit">Quit</string>
+  <string name="checkpoint_reached">
+    You reached a checkpoint. If you fail, you will return to the next level.
+  </string>
+  <string name="game_over_win">
+    You did it! Your cargo shouldn\'t have any problems reaching its destination
+    now. Thanks for the good work.
+  </string>
+  <string name="game_over_lose">
+    Ouch! I told you it wouldn\'t be easy.
+  </string>
+  <string name="restart_t">Restart</string>
+  <string name="quit_t">Quit</string>
+  <string name="fatal_error">Fatal Error</string>
+  <string name="load_levels_exception">
+    Could not start because levels could not be loaded.
+  </string>
+</resources>

@@ -1,0 +1,25 @@
+The Nu-mam Deck v1.0
+Release date: April 20th 2005
+
+LICENCE and LEGAL STUFF
+
+These card images are distributed as freeware, meaning you can use
+and distribute the deck as you wish, provided that you do not charge
+anything for doing so. You are not allowed to use these cards as part
+of a commercial product or for commercial purposes, nor make any
+modifications to the images without a prior written permisson by V.H.Smith.
+
+Copyright (c) 2004-2005 V.H.Smith. All rights reserved.
+
+This deck contains four cardbacks and 52 playing cards.
+The suits are based on the Mamluk Egyptian cards,
+Diamonds  = Coins
+Clubs     = Polo Sticks
+Hearts    = Cups
+Spades    = Scimitar (Curved sword)
+
+Mamluk Period 1260-1516 CE.
+The Mamluk Sultanate of Egypt ended in 1517, the suits were
+derived from earlier Chinese 'Money cards'. 
+
+Artist email / enquiries:  freeware.esoterica@free.fr

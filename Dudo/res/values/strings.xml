@@ -1,0 +1,107 @@
+<resources>
+
+    <string name="app_name">Dudo</string>
+    <string name="close">Close</string>
+    <string name="version">Version</string>
+    <string name="title_activity_main">Dudo</string>
+    
+    <!-- Generic -->
+    <string name="text_player">Player</string>
+    <string name="text_players">Players</string>
+	<string name="text_round">Round</string>
+	<string name="text_player_name">Player Name</string>
+	<string name="text_player_points">Player Points</string>
+    <string name="text_points">Points</string>
+    <string name="text_close">Close</string>
+    <string name="text_version">Version</string>
+    <string name="text_ok">OK</string>
+    <string name="text_start">Start</string>
+    <string name="text_cancel">Cancel</string>
+    <string name="text_time">Time</string>
+    <string name="text_yes">Yes</string>
+    <string name="text_no">No</string>
+    
+    <!-- About dialog -->
+    <string name="alert_about_label">About Dudo</string>
+    <string name="alert_help_label">Help</string>
+    <string name="alert_changelog_label">Changelog</string>
+    
+    <!-- Description menu elements -->
+    <string name="menu_new">New Match</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_changelog">Changelog</string>
+    <string name="menu_about">About</string>
+    
+	<!-- Description graphics elements -->
+    <string name="die1_description">Die 1</string>
+	<string name="die2_description">Die 2</string>
+	<string name="die3_description">Die 3</string>
+	<string name="die4_description">Die 4</string>
+	<string name="die5_description">Die 5</string>
+	<string name="die6_description">Die 6</string>
+	<string name="you_lose">You Lose!</string>
+	<string name="package_not_found">Dudo isn\'t installed as package</string>
+	<string name="new_play">New play!</string>
+	<string name="roll_are_you_sure">Are you sure to roll all die?</string>
+	<string name="delete_are_you_sure">Are you sure to delete a %1$s die?</string>
+	<string name="last_play_restored">Last play are restored!</string>
+	<string name="aks_for_new_match">Want you start a new match?</string>
+	
+	<!-- Description settings elements -->
+	<string name="settings">Settings</string>
+	<string name="sixdice_setting_title">6 Dice</string>
+	<string name="sixdice_setting_summ">Activate to play with six dice</string>
+	<string name="sound_setting_title">Sound</string>
+	<string name="sound_setting_summ">Enable or Disable sound during the game</string>
+	<string name="animation_setting_title">Animations</string>
+	<string name="animation_setting_summ">Enable or Disable animations during the game</string>
+	<string name="sorting_setting_title">Sorting</string>
+	<string name="sorting_setting_summ">Enable to show dice in increasing order</string>
+	<string name="vibration_setting_title">Vibration</string>
+	<string name="vibration_setting_summ">Enable the vibration during rolldice</string>
+	<string name="style_setting_title">Die style</string>
+	<string name="style_setting_summ">Set the style for dice</string>
+	<string name="askdelete_setting_title">Ask to loose a die</string>
+	<string name="askdelete_setting_summ">Ask confirmation before loose a die</string>
+	<string name="background_category_setting">Background</string>
+	<string name="backgroundtype_setting_title">Use image as backgroud</string>
+	<string name="backgroundtype_setting_summary">Enable to use an image as background, disable for solid color</string>
+	<string name="solidcolor_setting_title">Choose solid background color</string>
+	<string name="solidcolor_setting_summary">Choose the background solid color</string>
+	<string name="textcolor_setting_title">Choose solid text color</string>
+	<string name="textcolor_setting_summary">Choose the text color in background</string>
+	<string name="background_color_setting_title">Choose background image</string>
+	<string name="background_color_setting_summ">Change the background image</string>
+	<string name="playername_setting_title">Set playername</string>
+	<string name="playername_setting_summ">Set the playername used in the game</string>
+	
+	<!-- Backgrounds -->
+	<string name="pattern_green_carpet">Green Carpet</string>
+	<string name="pattern_partylight">Party Light</string>
+	<string name="pattern_wood">Wood</string>
+	<string name="pattern_galaxy">Galaxy</string>
+	<string name="pattern_lava">Lava</string>
+	<string name="pattern_rock">Rock</string>
+	<string name="pattern_soccer">Soccer</string>
+
+	<!-- Style -->
+	<string name="style_classic">Classic</string>
+	<string name="style_android">Android</string>
+		
+	<!-- Color Picker -->
+    <string name="dialog_color_picker">Color Picker</string>
+    <string name="press_color_to_apply">Press on Color to apply</string>    
+    
+    <!-- Preferences -->
+    <string name="pref_category">Category</string>
+    <string name="color1_title">Color 1</string>
+    <string name="color1_summary">black color by default, set by reference</string>
+    <string name="color2_title">Color 2</string>
+    <string name="color2_summary">not persistent color\nalpha slider added via code</string>
+    <string name="color3_title">Color 3</string>
+    <string name="color3_summary">picker with alpha slider</string>
+    <string name="color4_title">Color 4</string>
+    <string name="color4_summary">color set with HEX code in xml</string>
+    
+</resources>

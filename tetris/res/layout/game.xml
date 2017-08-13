@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:baselineAligned="false"
+    android:id="@+id/linearLayoutMain">
+
+    <LinearLayout
+        android:id="@+id/linearLayoutScreen"
+        android:layout_width="fill_parent"
+        android:baselineAligned="false"
+        android:layout_height="fill_parent" 
+        android:layout_weight=".1">
+
+        <!-- I know that Nested weights are bad for performance, I know -->
+        <LinearLayout
+            android:id="@+id/linearLayoutBoard"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical"            
+            android:layout_weight=".3"
+            android:paddingBottom="10dp">
+
+            <com.seavenois.tetris.BoardView
+                android:id="@+id/GameView"
+                android:layout_height="fill_parent"
+                android:layout_width="fill_parent">                
+            </com.seavenois.tetris.BoardView>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearLayoutInfo"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical" 
+            android:layout_weight=".7">
+
+            <TextView
+                android:id="@+id/textViewNext"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/next" 
+                android:layout_gravity="center"/>
+
+            <ImageView
+                android:id="@+id/imageViewNext"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center" 
+                android:background="@drawable/nextpiece" 
+                android:contentDescription="@string/accesibilityNextPiece"
+                android:layout_margin="10dp"/>
+
+            <Button
+                android:id="@+id/buttonPause"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center" 
+                android:text="@string/pause" 
+                android:layout_marginTop="20dp"/>
+
+            <LinearLayout
+                android:id="@+id/LinearLayoutScore"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/TextViewScoreLabel"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/score" 
+                    android:layout_gravity="center"/>
+
+                <TextView
+                    android:id="@+id/TextViewScore"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="right"/>
+                <ImageView  
+                    android:layout_height="0dip"
+                    android:layout_weight=".1" 
+                    android:src="@drawable/alpha" 
+                    android:layout_width="fill_parent"
+                    android:contentDescription="@string/accesibilityCombo"
+                    android:id="@+id/imageViewCombo"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayoutButtons"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" 
+        android:layout_weight=".9">
+
+        <!-- I know that Nested weights are bad for performance, I know -->
+        <Button
+            android:id="@+id/ButtonRotateL"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight=".2" 
+            android:drawableTop="@drawable/rotateleft"/>
+
+        <Button
+            android:id="@+id/ButtonMoveL"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" 
+            android:layout_weight=".2" 
+            android:drawableTop="@drawable/moveleft"/>
+
+        <Button
+            android:id="@+id/ButtonMoveD"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight=".2" 
+            android:drawableTop="@drawable/movedown"/>
+
+        <Button
+            android:id="@+id/ButtonMoveR"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" 
+            android:layout_weight=".2" 
+            android:drawableTop="@drawable/moveright"/>
+
+        <Button
+            android:id="@+id/buttonRotateR"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" 
+            android:layout_weight=".2" 
+            android:drawableTop="@drawable/rotateright"/>
+
+    </LinearLayout>
+
+</LinearLayout>

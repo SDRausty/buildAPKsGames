@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+        android:key="sixdice_setting"
+        android:title="@string/sixdice_setting_title"
+        android:summary="@string/sixdice_setting_summ"
+        android:defaultValue="false" />
+    <CheckBoxPreference
+        android:key="sound_setting"
+        android:title="@string/sound_setting_title"
+        android:summary="@string/sound_setting_summ"
+        android:defaultValue="true" />
+     <CheckBoxPreference
+        android:key="animation_setting"
+        android:title="@string/animation_setting_title"
+        android:summary="@string/animation_setting_summ"
+        android:defaultValue="true" />
+      <CheckBoxPreference
+        android:key="vibration_setting"
+        android:title="@string/vibration_setting_title"
+        android:summary="@string/vibration_setting_summ"
+        android:defaultValue="true" />
+     <CheckBoxPreference
+        android:key="sorting_setting"
+        android:title="@string/sorting_setting_title"
+        android:summary="@string/sorting_setting_summ"
+        android:defaultValue="false" />
+     <CheckBoxPreference
+        android:key="askdelete_setting"
+        android:title="@string/askdelete_setting_title"
+        android:summary="@string/askdelete_setting_summ"
+        android:defaultValue="false" />
+     <EditTextPreference
+        android:key="playername_setting"
+        android:title="@string/playername_setting_title" 
+        android:summary="@string/playername_setting_summ"
+        android:defaultValue="@string/text_player" />
+     <ListPreference
+        android:key="style_setting"
+        android:title="@string/style_setting_title"
+        android:summary="@string/style_setting_summ"
+        android:defaultValue="CLASSIC"
+        android:entries="@array/style_name"
+        android:entryValues="@array/style_value" />
+     <PreferenceCategory android:title="@string/background_category_setting">
+     <CheckBoxPreference
+        android:key="backgroundtype_setting"
+        android:title="@string/backgroundtype_setting_title"
+        android:summary="@string/backgroundtype_setting_summary"
+        android:defaultValue="true" />
+     <net.margaritov.preference.colorpicker.ColorPickerPreference
+        android:key="background_solidcolor_setting"
+        android:title="@string/solidcolor_setting_title"
+        android:summary="@string/solidcolor_setting_summary"
+        android:defaultValue="@color/White"/>
+     <net.margaritov.preference.colorpicker.ColorPickerPreference
+        android:key="background_textcolor_setting"
+        android:title="@string/textcolor_setting_title"
+        android:summary="@string/textcolor_setting_summary"
+        android:defaultValue="@color/Black"/>
+     <ListPreference
+        android:key="background_image_setting"
+        android:title="@string/background_color_setting_title"
+        android:summary="@string/background_color_setting_summ"
+        android:defaultValue="GREENCARPET"
+        android:entries="@array/colors_name"
+        android:entryValues="@array/colors_value" />
+     </PreferenceCategory>
+</PreferenceScreen>

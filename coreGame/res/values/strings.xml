@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Translate strings within <string></string> tags into your language. -->
+<resources>
+<!-- Do not translate next line -->
+    <string name="app_name">Core</string>
+    <!-- \n stands for new line symbol. Program treat \n as a line break.
+    You can divide your strings into lines of reasonable length yourself or leave that work for me. -->
+	<string name="ready">Ready?\nTouch the screen!</string>
+	<string name="paused">Game is paused.\nTouch the screen\nto resume.</string>
+	<string name="game_over">Game over!\nTouch the screen\nto restart.</string>
+	<string name="your_time">Your time:</string>
+	<string name="game_url">bit.ly/coregame</string>
+	<!-- Don't forget to specify the language! You can do it in the letter or in this comment. -->
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Memory</string>
+    <string name="restart_menuitem_text">Restart</string>
+    <string name="highscore_menuitem_text">High Score</string>
+    <string name="about_menuitem_text">About</string>
+    <string name="share_highscore_menuitem_text">Share</string>
+    <string name="about_text">Memory $VERSION$\n\nby Mobile Pearls\nhttp://mobilepearls.com\n\nIcons from\nhttp://www.everaldo.com/crystal</string>
+    <string name="no_high_score">No high score!</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Core</string>
+	<string name="ready">Приготовились?\nКоснитесь экрана!</string>
+	<string name="paused">Пауза. Нажмите,\nчтобы продолжить.</string>
+	<string name="game_over">Игра завершена!\nНажмите,чтобы\nсыграть ещё раз.</string>
+	<string name="your_time">Ваше время:</string>
+	<string name="game_url">bit.ly/coregame</string>
+</resources>

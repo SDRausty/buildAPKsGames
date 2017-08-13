@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">Tttris</string>
+    <string name="next">Siguiente:</string>
+    <string name="score">Puntos:</string>
+    <string name="newGame">Nuevo juego</string>
+    <string name="resumeGame">Continuar</string>
+    <string name="highScores">Records</string>
+	<string name="pause">\nPausa\n</string>
+	<string name="resume">\nContinuar\n</string>
+	<string name="accesibilityLogo">"Logo"</string>
+	<string name="accesibilityCombo">"Combo"</string>
+	<string name="accesibilityNextPiece">"Siguiente"</string>
+	<string name="first">"1º"</string>
+	<string name="second">"2º"</string>
+	<string name="third">"3º"</string>
+	
+</resources>
