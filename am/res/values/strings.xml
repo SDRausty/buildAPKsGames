@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TP_AMActivity!</string>
+    <string name="app_name">Free Fall</string>
+    <string name="Settings">Settings</string>
+    <string name="About">About</string>
+    <string name="Exit">Exit</string>
+    <string name="Play">Play</string>
+    <string name="Score">Score</string>
+    <string name="Top10">Top 10</string>
+    <string name="Help">Help</string>
+        <string name="Set">Set The Difficulty</string>
+    <string name="SetColor">Set The Color of the ball</string>
+    <string-array name="Dificulty">
+        <item>Easy</item>
+        <item>Normal</item>
+        <item>Hard</item>
+    </string-array>
+
+       <string-array name="Color">
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Green</item>
+       <item >Black</item>
+    </string-array>
+       <string name="Help1">Use the accelerometer to control the ball</string>
+       <string name="Help2">Use your finger to activate the bonus</string>
+       <string name="Back">Back</string>
+        <string name="Pf1">This preference allows to select difficulty mode.</string>
+        <string name="Pf2">This preference allows to select a color for the ball.</string>
+        <string name="ballSpeedSum">This preference is to increase the ball speed when using the accelerometer</string>
+          <string name="Sound">Mute Sound</string>
+          <string name="Sound2">This preference allows to (de)activate the sounds in the game.</string>
+          <string name="lowBattery">Low Battery!</string>
+          <string name="gameOver">Game Over!</string>
+          <string name="ballSpeed">Ball Speed</string>
+          <string name="helpBonusColor">Pass barriers that are your color.</string>
+          <string name="helpBombBonus">Destroy all visible barriers.</string>
+          <string name="timeBonus">Slow down barriers\' speed.</string>
+          <string name="failBonus">You loose the game.</string>
+         <string name="Bonus">Bonus</string>
+         <string name="quitDialogTitle">Really Quit?</string>
+      
+           
+           
+</resources>

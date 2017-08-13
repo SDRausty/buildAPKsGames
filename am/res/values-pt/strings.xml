@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Settings">Configurações</string>
+    <string name="About">Sobre</string>
+    <string name="Exit">Sair</string>
+    <string name="Play">Jogar</string>
+    <string name="Score">Pontuação</string>
+    <string name="Ajuda">Help</string>
+   <string name="Set">Selecione a Dificuldade</string>
+   <string name="Help">Ajuda</string>
+       
+       
+    <string name="SetColor">Seleccione a cor da Bola</string>
+           <string name="Help1">Use o acelerometro para controlar a bola.</string>
+       <string name="Help2">Com o dedo active os bónus</string>
+       <string name="Back">Voltar</string>
+       <string name="Pf1">Aqui pode seleccionar a dificuldade do jogo</string>
+       <string name="Pf2">Aqui pode seleccionar a cor da bola</string>
+       <string name="Sound">Silenciar Sons</string>
+       <string name="Sound2">Aqui pode (des)activar os sons do jogo.</string>
+        
+          <string name="lowBattery">Bateria Fraca!</string>
+          <string name="gameOver">Game Over!</string>
+          
+          <string name="ballSpeedSum">Esta preferência serve para aumentar a velocidade da bola quando se usa o acelerómetro.</string>
+          <string name="ballSpeed">Velocidade da Bola</string>
+          
+          <string name="helpBonusColor">Passa barreiras da tua cor.</string>
+          <string name="helpBombBonus">Destroi todas as barreiras visíveis.</string>
+          <string name="timeBonus">Diminui a velocidade das barreiras.</string>
+          <string name="failBonus">Faz perder o jogo.</string>
+           <string name="Bonus">Bónus</string>
+           <string name="quitDialogTitle">Deseja mesmo sair?</string>
+        
+</resources>

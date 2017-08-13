@@ -1,0 +1,43 @@
+Developers
+----------
+Carlos Pais
+João Jesus
+
+Graphics' Designers
+-------------------- 
+Carlos Pais:
+-Color Ball <CC BY-SA>
+-Logo <CC BY-SA>
+-Help icon <CC BY-SA> (Used hand from Onebit icons, by Stan Khodjaev, under the Public Domain <http://www.icojam.com/blog/?p=177>)
+
+Everaldo Coelho <http://www.everaldo.com/>:
+-Bomb <LGPL>
+-Fail Bomb <LGPL>
+-Faces <LGPL>
+
+Sergio Sánchez López <http://kde-look.org/usermanager/search.php?username=Sephiroth6779>:
+-Time Ball <GPL>
+
+John Wallom <http://www.flickr.com/photos/jwallom/>:
+-Menu background <CC BY 2.0>
+
+Willam Warby <http://www.flickr.com/photos/wwarby/>:
+-Game background <CC BY 2.0>
+
+Sounds' Makers
+--------------
+p0ss <http://opengameart.org/users/p0ss>:
+-win.ogg <CC-BY-SA 3.0>
+-color_bonus.ogg <CC-BY-SA 3.0>
+-time_bonus.ogg <CC-BY-SA 3.0>
+
+Mike Hoffman <http://soundcloud.com/browntimmy>
+-gameover.ogg <CC BY 3.0>
+
+Luke.RUSTLTD <http://opengameart.org/users/lukerustltd>:
+-bomb_bonus.wav <Public Domain>
+
+Brandon Morris <http://opengameart.org/users/brandon-morris>:
+-new_point.mp3 <CC-BY 3.0>
+
+
