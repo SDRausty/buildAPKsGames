@@ -4,8 +4,8 @@
     android:versionName="0.7.1 @ 1st mar 2015" >
 
     <uses-sdk
-        android:minSdkVersion="8"
-        android:targetSdkVersion="21" />
+        android:minSdkVersion="14"
+        android:targetSdkVersion="27" />
     <uses-permission android:name="android.permission.VIBRATE"/>
 
     <application
