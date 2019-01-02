@@ -137,7 +137,7 @@ public class SokobanGameView extends View {
 			invalidate();
 		} else if (game.undos.isEmpty()) {
 			Vibrator vibrator = (Vibrator) getContext().getSystemService(Context.VIBRATOR_SERVICE);
-			VibrationEffect.DEFAULT_AMPLITUDE
+			VibrationEffect.DEFAULT_AMPLITUDE;
 		}
 	}
 
@@ -280,7 +280,7 @@ public class SokobanGameView extends View {
 
 	void gameOver() {
 		Vibrator vibrator = (Vibrator) getContext().getSystemService(Context.VIBRATOR_SERVICE);
-		VibrationEffect.DEFAULT_AMPLITUDE
+		VibrationEffect.DEFAULT_AMPLITUDE;
 		invalidate();
 
 		SharedPreferences prefs = getContext().getSharedPreferences(SokobanPrefs.SHARED_PREFS_NAME,
