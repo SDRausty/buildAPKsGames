@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="200"
+   height="200"
+   viewBox="0 0 200 200"
+   id="svg3026"
+   xml:space="preserve"><metadata
+   id="metadata15"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs13"><linearGradient
+   x1="211.74323"
+   y1="242.65678"
+   x2="286.40933"
+   y2="242.65678"
+   id="linearGradient3768"
+   xlink:href="#imagebot_5_1_"
+   gradientUnits="userSpaceOnUse" /><linearGradient
+   x1="68.135803"
+   y1="254.94769"
+   x2="68.135803"
+   y2="238.6842"
+   id="linearGradient3770"
+   xlink:href="#imagebot_5_1_"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(3.507,0,0,-3.507,-90.3814,1014.1624)" />
+	
+		<linearGradient
+   x1="68.135803"
+   y1="254.94769"
+   x2="68.135803"
+   y2="238.6842"
+   id="imagebot_5_1_"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(3.507,0,0,-3.507,-90.3814,1014.1624)">
+		<stop
+   id="stop5"
+   style="stop-color:#a40000;stop-opacity:1"
+   offset="0" />
+		<stop
+   id="stop7"
+   style="stop-color:#ef2929;stop-opacity:1"
+   offset="1" />
+	</linearGradient>
+	
+	
+<linearGradient
+   x1="68.135803"
+   y1="254.94769"
+   x2="68.135803"
+   y2="238.6842"
+   id="linearGradient3777"
+   xlink:href="#imagebot_5_1_"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(12.190804,0,0,-12.190804,-730.85276,3108.407)" /></defs>
+<path
+   d="m 198.91727,99.494719 c 0,54.749131 -44.38329,99.132421 -99.132416,99.132421 -54.749112,0 -99.13239631,-44.38329 -99.13239631,-99.132421 0,-54.749112 44.38328431,-99.13239459 99.13239631,-99.13239459 54.749126,0 99.132416,44.38328259 99.132416,99.13239459 z"
+   id="imagebot_5"
+   style="fill:url(#linearGradient3777)" />
+</svg>

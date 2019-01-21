@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- XL -->
+    <style name="TextAppearance.Small.XL" parent="@android:style/TextAppearance.Small">
+        <item name="android:textSize">@dimen/size_xl_small</item>
+    </style>
+    <style name="TextAppearance.Medium.XL" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">@dimen/size_xl_medium</item>
+    </style>
+    <style name="TextAppearance.XL" parent="@android:style/TextAppearance">
+        <item name="android:textSize">@dimen/size_xl</item>
+        </style>
+    <style name="TextAppearance.Large.XL" parent="@android:style/TextAppearance.Large">
+        <item name="android:textSize">@dimen/size_xl_large</item>
+        <item name="android:textColor">@android:color/holo_blue_dark</item>
+    </style>
+    
+    <!-- XL Inverse -->
+    <style name="TextAppearance.Small.Inverse.XL" parent="@android:style/TextAppearance.Small.Inverse">
+        <item name="android:textSize">@dimen/size_xl_small</item>
+    </style>
+    <style name="TextAppearance.Medium.Inverse.XL" parent="@android:style/TextAppearance.Medium.Inverse">
+        <item name="android:textSize">@dimen/size_xl_medium</item>
+    </style>
+    <style name="TextAppearance.Inverse.XL" parent="@android:style/TextAppearance.Inverse">
+        <item name="android:textSize">@dimen/size_xl</item>
+    </style>
+    <style name="TextAppearance.Large.Inverse.XL" parent="@android:style/TextAppearance.Large.Inverse">
+        <item name="android:textSize">@dimen/size_xl_large</item>
+    </style>
+    
+    
+</resources>

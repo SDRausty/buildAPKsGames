@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@layout/linear_gradient"
+    >
+    <org.scoutant.cc.GameView
+		xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:id="@+id/game"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent" 
+	/>
+    <ImageView 
+		xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:id="@+id/menu"
+	    android:src="@drawable/chinese_checkers_512"
+	    android:layout_width="96dp"
+	    android:layout_height="96dp" 
+	    android:layout_gravity="top|right"
+	    android:contentDescription=""
+	    android:layout_marginRight="10dp"
+	    android:layout_marginTop="10dp"
+        />
+    <ImageView 
+		xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:id="@+id/turn"
+	    android:src="@drawable/kservices_1436_48"
+	    android:layout_width="92dp"
+	    android:layout_height="92dp" 
+	    android:layout_gravity="bottom|right"
+	    android:layout_marginRight="15dp"
+	    android:layout_marginBottom="12dp"
+	    android:contentDescription=""
+        />
+    <ImageButton 
+		xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:id="@+id/cancel"
+	    android:src="@drawable/cancel_256"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content" 
+	    android:layout_gravity="left|center_vertical"
+	    android:background="@android:color/transparent"
+	    android:scaleType="fitCenter"
+        />
+    <ImageButton 
+		xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:id="@+id/ok"
+	    android:src="@drawable/checkmark_256"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content" 
+	    android:layout_gravity="right|center_vertical"
+	    android:background="@android:color/transparent"
+	    android:scaleType="fitCenter"
+        />
+    
+</FrameLayout>

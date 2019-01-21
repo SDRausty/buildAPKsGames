@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" 
+    android:id="@+id/linearLayoutInit">
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight=".2"
+        android:src="@drawable/logo" 
+        android:layout_margin="5dp" 
+        android:contentDescription="@string/accesibilityLogo"/>
+
+    <Button
+        android:id="@+id/buttonNewGame"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight=".4"
+        android:text="@string/newGame" android:layout_margin="10dp"/>
+
+    <Button
+        android:id="@+id/buttonResumeGame"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight=".4"
+        android:text="@string/resumeGame" android:layout_margin="10dp"/>
+
+    <Button
+        android:id="@+id/buttonHighScores"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight=".4"
+        android:text="@string/highScores" android:layout_margin="10dp"/>
+
+</LinearLayout>

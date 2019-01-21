@@ -1,0 +1,104 @@
+<resources>
+
+    <string name="app_name">Dudo</string>
+    <string name="close">Chiudi</string>
+    <string name="version">Versione</string>
+    <string name="title_activity_main">Dudo</string>
+    
+    <!-- Generic -->
+    <string name="text_player">Giocatore</string>
+    <string name="text_players">Giocatori</string>
+	<string name="text_round">Turno</string>
+	<string name="text_player_name">Nome Giocatore</string>
+	<string name="text_player_points">Punti Giocatore</string>
+    <string name="text_points">Punti</string>
+    <string name="text_close">Chiudi</string>
+    <string name="text_version">Versione</string>
+    <string name="text_ok">OK</string>
+    <string name="text_start">Inizia</string>
+    <string name="text_cancel">Annulla</string>
+    <string name="text_time">Tempo</string>
+    <string name="text_yes">Sì</string>
+    <string name="text_no">No</string>
+    
+    <!-- About dialog -->
+    <string name="alert_about_label">About Dudo</string>
+    <string name="alert_help_label">Aiuto</string>
+    <string name="alert_changelog_label">Changelog</string>
+    
+    <!-- Description menu elements -->
+    <string name="menu_new">Nuova Partita</string>
+    <string name="menu_settings">Preferenze</string>
+    <string name="menu_help">Aiuto</string>
+    <string name="menu_changelog">Changelog</string>
+    <string name="menu_about">About</string>
+    
+    <!-- Description graphics elements -->
+    <string name="dice1_description">Dado 1</string>
+	<string name="dice2_description">Dado 2</string>
+	<string name="dice3_description">Dado 3</string>
+	<string name="dice4_description">Dado 4</string>
+	<string name="dice5_description">Dado 5</string>
+	<string name="dice6_description">Dado 6</string>
+	<string name="you_lose">Hai Perso!</string>
+	<string name="package_not_found">Dudo non è installato da un package</string>
+	<string name="new_play">Nuova partita!</string>
+	<string name="roll_are_you_sure">Vuoi ritirare tutti i dadi?</string>
+	<string name="delete_are_you_sure">Vuoi eliminare un dado da %1$s?</string>
+	<string name="last_play_restored">L\'ultima partita è stata ripristinata!</string>
+	<string name="aks_for_new_match">Vuoi cominciare una nuova partita?</string>
+	
+	<!-- Description settings elements -->
+	<string name="settings">Preferenze</string>
+	<string name="sixdice_setting_title">6 Dadi</string>
+	<string name="sixdice_setting_summ">Attiva per giocare con 6 dadi</string>
+	<string name="sound_setting_title">Suono</string>
+	<string name="sound_setting_summ">Abilita o disabilita i suoni durante il gioco</string>
+	<string name="animation_setting_title">Animazioni</string>
+	<string name="animation_setting_summ">Abilita o disabilita le animazioni durante il gioco</string>
+	<string name="sorting_setting_title">Ordinamento</string>
+	<string name="sorting_setting_summ">Abilita per mostrare i dadi in ordine crescente</string>
+	<string name="vibration_setting_title">Vibrazione</string>
+	<string name="vibration_setting_summ">Abilita la vibrazione quando si lanciano i dadi</string>	
+	<string name="style_setting_title">Stile dei dadi</string>
+	<string name="style_setting_summ">Imposta lo stile dei dadi</string>
+	<string name="askdelete_setting_title">Conferma prima di perdere</string>
+	<string name="askdelete_setting_summ">Chiedi conferma prima di perdere un dado</string>
+	<string name="background_category_setting">Sfondo</string>
+	<string name="backgroundtype_setting_title">Usa immagine per lo sfondo</string>
+	<string name="backgroundtype_setting_summary">Abilita per utilizzare una immagine come sfondo, disabilita per usare un colore</string>
+	<string name="solidcolor_setting_title">Colore di sfondo</string>
+	<string name="solidcolor_setting_summary">Scegli il colore dello sfondo</string>
+	<string name="textcolor_setting_title">Colore del testo</string>
+	<string name="textcolor_setting_summary">Scegli il colore del testo nello sfondo</string>
+	<string name="background_color_setting_title">Immagine di sfondo</string>
+	<string name="background_color_setting_summ">Scegli l\'immagine di sfondo</string>
+	<string name="playername_setting_title">Nome del giocatore</string>
+	<string name="playername_setting_summ">Scegli il nome del giocatore</string>
+
+	
+	<!-- Backgrounds -->
+	<string name="pattern_green_carpet">Tappeto Verde</string>
+	<string name="pattern_partylight">Festa di luci</string>
+	<string name="pattern_wood">Legno</string>
+	<string name="pattern_galaxy">Galassia</string>
+	<string name="pattern_lava">Lava</string>
+	<string name="pattern_rock">Roccia</string>
+	<string name="pattern_soccer">Campo da Calcio</string>
+	
+	<!-- Style -->
+	<string name="style_classic">Classico</string>
+	<string name="style_android">Android</string>
+	
+	<!-- Preferences -->
+    <string name="pref_category">Categoria</string>
+    <string name="color1_title">Colore 1</string>
+    <string name="color1_summary">colore nero di default, impostato dalle reference</string>
+    <string name="color2_title">Colore 2</string>
+    <string name="color2_summary">colore non persistente\nalpha slider agginto da codice</string>
+    <string name="color3_title">Colore 3</string>
+    <string name="color3_summary">picker con alpha slider</string>
+    <string name="color4_title">Colore 4</string>
+    <string name="color4_summary">colore impostato con valore esadecimale in xml</string>
+	
+</resources>

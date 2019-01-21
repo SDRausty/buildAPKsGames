@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.seavenois.tetris"
+    android:versionCode="1" android:versionName="0.8-beta">
+
+    <uses-sdk android:minSdkVersion="14" />
+    <uses-permission android:name="android.permission.VIBRATE"/>
+
+    <application
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name" >
+        
+        <activity
+            android:name=".Init"
+            android:label="@string/app_name" >
+            
+            <intent-filter>
+                
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+                
+            </intent-filter>
+            
+        </activity>
+        
+        <activity
+            android:name=".HighScores"
+            android:label="@string/app_name" >
+                      
+        </activity>
+        
+        <activity 
+            android:name=".Game">
+            
+        </activity>
+        
+    </application>
+
+</manifest>

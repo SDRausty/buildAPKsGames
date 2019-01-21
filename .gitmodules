@@ -1,0 +1,60 @@
+[submodule "android-vitosha-poker-odds/six999"]
+	path = android-vitosha-poker-odds/six999
+	url = https://github.com/six999/android-vitosha-poker-odds
+[submodule "android-vitosha-poker-odds/VelbazhdSoftwareLLC"]
+	path = android-vitosha-poker-odds/VelbazhdSoftwareLLC
+	url = https://github.com/VelbazhdSoftwareLLC/android-vitosha-poker-odds
+[submodule "gamemasterdice"]
+	path = gamemasterdice
+	url = https://github.com/ge0rg/gamemasterdice
+[submodule "BatteryLevel"]
+	path = BatteryLevel
+	url = https://github.com/rrelmy/BatteryLevel
+[submodule "rorist/Cowsay-android"]
+	path = rorist/Cowsay-android
+	url = https://github.com/rorist/Cowsay-android
+[submodule "rorist/android-alarm-button"]
+	path = rorist/android-alarm-button
+	url = https://github.com/rorist/android-alarm-button
+[submodule "rorist/android-reverse"]
+	path = rorist/android-reverse
+	url = https://github.com/rorist/android-reverse
+[submodule "com.mobilepearls/sokoban"]
+	path = com.mobilepearls/sokoban
+	url = https://github.com/mobilepearls/com.mobilepearls.sokoban
+[submodule "com.mobilepearls/memory"]
+	path = com.mobilepearls/memory
+	url = https://github.com/mobilepearls/com.mobilepearls.memory
+[submodule "com.mobilepearls/react"]
+	path = com.mobilepearls/react
+	url = https://github.com/mobilepearls/com.mobilepearls.react
+[submodule "AndroFish"]
+	path = AndroFish
+	url = https://github.com/zipzapdat/AndroFish
+[submodule "AndFish"]
+	path = AndFish
+	url = https://github.com/ppelleti/AndFish
+[submodule "VelbazhdSoftwareLLC/RussianTripleForAndroid"]
+	path = VelbazhdSoftwareLLC/RussianTripleForAndroid
+	url = https://github.com/VelbazhdSoftwareLLC/RussianTripleForAndroid
+[submodule "VelbazhdSoftwareLLC/FishRingsForAndroid"]
+	path = VelbazhdSoftwareLLC/FishRingsForAndroid
+	url = https://github.com/VelbazhdSoftwareLLC/FishRingsForAndroid
+[submodule "VelbazhdSoftwareLLC/Politrics"]
+	path = VelbazhdSoftwareLLC/Politrics
+	url = https://github.com/VelbazhdSoftwareLLC/Politrics
+[submodule "VelbazhdSoftwareLLC/tuty-fruty-slot-for-android"]
+	path = VelbazhdSoftwareLLC/tuty-fruty-slot-for-android
+	url = https://github.com/VelbazhdSoftwareLLC/tuty-fruty-slot-for-android
+[submodule "FishRingsForAndroid"]
+	path = FishRingsForAndroid
+	url = https://github.com/VelbazhdSoftwareLLC/FishRingsForAndroid
+[submodule "thugaim"]
+	path = thugaim
+	url = https://github.com/meoblast001/thugaim
+[submodule "BomberMan-for-Android"]
+	path = BomberMan-for-Android
+	url = https://github.com/jogordon/BomberMan-for-Android
+[submodule "dudo"]
+	path = dudo
+	url = https://github.com/jareens/dudo

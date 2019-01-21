@@ -1,0 +1,33 @@
+Free Fall 1.6.1 | 8/03/2012
+---------------------------
+-Fixed screen going off during gameplay.
+-Fixed crash after returning from a paused state (i.e. pressing power button when playing).
+
+Free Fall 1.6 | 23/02/2012
+---------------------------
+-Better colision detection between balls and barriers.
+-Added game pause.
+-Fixed some issues in translations.
+-Fixed bonus balls getting stuck at the bottom of the screen.
+-Minor improvements.
+
+Free Fall 1.5 | 06/02/2012
+---------------------------
+-Fixed random freezing bug.
+-Improved time bonus.
+-Improved/Fixed BitmapCache
+-Improved collision detection.
+-Fixed no sound when pressing same second bonus in a short period of time.
+-Fixed gamerover sound at end.
+-Added win sound at end if score is above the previous high score.
+-Added a seekbar to define ball speed in preferences.
+-Reorganized help activity.
+-Added Spanish translation.
+-Other minor changes and bugfixes.
+
+Free Fall 1.0
+---------------------------
+-First release
+
+
+

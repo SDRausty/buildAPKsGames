@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="chinese_checkers_rules">Chinese Checkers rule</string>
+    
+	<string name="summary"> Chinese Checkers is a board game. Every player has 10 pieces. The winner is the one that first races his pieces across the board.</string>
+	
+	<string name="rules_details"> A piece hops over another piece, no matters the color.\n You can chain several hops in a single move.\n We consider the fast-paced rules : long hops are allowed as illustrated above.\nAll pieces always remain on the bord.</string>
+		
+	<string name="demo">Demo</string>
+		
+	<string name="about_title">About</string>
+	<string name="about">Chinese checkers v0.9, scoutant.org.\n
+Free/Libre open-source software, licence GPL, find the source at github.com/scoutant.\nIcons credits go to Crystal_Clear under GNU LGPL licence</string>
+	
+</resources>

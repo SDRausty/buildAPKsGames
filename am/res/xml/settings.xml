@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="Settings">
+
+                
+                
+        <CheckBoxPreference
+                        android:title="@string/Sound"
+                        android:defaultValue="True"
+                        android:summary="@string/Sound2"
+                        android:key="MuteSound" />
+                
+                
+         <ListPreference
+           android:title="@string/Set"
+           android:summary="@string/Pf1"
+           android:key="Dificulty"
+           android:defaultValue="Easy"
+           android:entries="@array/Dificulty"
+           android:entryValues="@array/Dificulty" />          
+		  
+    
+     <ListPreference
+           android:title="@string/SetColor"
+           android:summary="@string/Pf2"
+           android:key="Color"
+           android:defaultValue="Red"
+           android:entries="@array/Color"
+           android:entryValues="@array/Color"/>    
+           
+     
+   		<pt.isec.tp.am.SeekBarPreference 
+   			android:title="@string/ballSpeed"
+   			android:key="BallSpeed" 
+   			android:summary="@string/ballSpeedSum" 
+   			android:defaultValue="3" 
+   			/>
+
+           
+    </PreferenceCategory>
+    
+ 
+
+</PreferenceScreen>

@@ -1,0 +1,162 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/parentLayout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:id="@+id/dieLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_toEndOf="@+id/imageButtonRollLateral"
+        android:layout_toLeftOf="@+id/imageButtonDeleteLateral"
+        android:layout_toRightOf="@+id/imageButtonRollLateral"
+        android:layout_toStartOf="@+id/imageButtonDeleteLateral"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <RelativeLayout
+                android:id="@+id/LayoutDice01"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent" >
+
+                  <ImageView
+                    android:id="@+id/ImageButton01"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/DiceMargin"
+                    android:contentDescription="@string/die1_description"
+                    android:src="@drawable/dice_empty" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/LayoutDice02"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent" >
+
+                <ImageView
+                    android:id="@+id/ImageButton02"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/DiceMargin"
+                    android:contentDescription="@string/die2_description"
+                    android:src="@drawable/dice_empty" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/LayoutDice03"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent" >
+
+                <ImageView
+                    android:id="@+id/ImageButton03"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/DiceMargin"
+                    android:contentDescription="@string/die3_description"
+                    android:src="@drawable/dice_empty" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <RelativeLayout
+                android:id="@+id/LayoutDice04"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent" >
+
+                <ImageView
+                    android:id="@+id/ImageButton04"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/DiceMargin"
+                    android:contentDescription="@string/die4_description"
+                    android:src="@drawable/dice_empty" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/LayoutDice05"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent" >
+
+                <ImageView
+                    android:id="@+id/ImageButton05"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/DiceMargin"
+                    android:contentDescription="@string/die5_description"
+                    android:src="@drawable/dice_empty" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/LayoutDice06"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent" >
+
+                <ImageView
+                    android:id="@+id/ImageButton06"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/DiceMargin"
+                    android:contentDescription="@string/die6_description"
+                    android:src="@drawable/dice_empty" />
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+    
+<ImageButton
+    android:id="@+id/imageButtonRollLateral"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentStart="true"
+    android:layout_alignParentTop="true"
+    android:layout_margin="5dp"
+    android:contentDescription="Roll Button"
+    android:src="@android:drawable/ic_menu_rotate" />
+
+ <ImageButton
+     android:id="@+id/imageButtonDeleteLateral"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_alignParentBottom="true"
+     android:layout_alignParentEnd="true"
+     android:layout_alignParentRight="true"
+     android:layout_alignParentTop="true"
+     android:layout_margin="5dp"
+     android:contentDescription="Delete Button"
+     android:src="@android:drawable/ic_menu_delete" />
+
+    <TextView
+        android:id="@+id/playernameTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:gravity="start"
+        android:paddingBottom="10dp"
+        android:text="@string/text_player_name"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <Chronometer
+        android:id="@+id/chronometer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="end"
+        android:paddingBottom="10dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

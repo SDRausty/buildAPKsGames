@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="eu.veldsoft.blokish8"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="27" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <uses-feature
+        android:name="android.hardware.screen.portrait"
+        android:required="true" />
+    <uses-feature
+        android:name="android.hardware.touchscreen"
+        android:required="true" />
+
+    <supports-screens
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="false" />
+
+    <application
+        android:icon="@drawable/blokish2"
+        android:label="Blokish8"
+        android:theme="@style/scoutant" >
+        <activity
+            android:name=".SplashScreen"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".UI"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Settings"
+            android:label="Blokish8 - Settings"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Help"
+            android:label="Blokish8 - Help"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".SplashActivity"
+            android:label="@string/title_activity_splash"
+            android:noHistory="true" >
+            <meta-data
+                android:name="timeout"
+                android:value="5000" />
+            <meta-data
+                android:name="redirect"
+                android:value="eu.veldsoft.blokish8.UI" />
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest> <!-- TODO issue #4 : when same score : last player wins : adapt the message. -->

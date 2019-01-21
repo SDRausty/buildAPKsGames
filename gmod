@@ -1,0 +1,22 @@
+git submodule add https://github.com/ge0rg/gamemasterdice 
+git submodule add https://github.com/rrelmy/BatteryLevel
+git submodule add https://github.com/rorist/Cowsay-android rorist/Cowsay-android
+git submodule add https://github.com/rorist/android-alarm-button rorist/android-alarm-button/
+git submodule add https://github.com/rorist/android-reverse rorist/android-reverse
+git submodule add https://github.com/mobilepearls/com.mobilepearls.sokoban com.mobilepearls/sokoban 
+git submodule add https://github.com/mobilepearls/com.mobilepearls.react com.mobilepearls/react 
+git submodule add https://github.com/mobilepearls/com.mobilepearls.memory com.mobilepearls/memory 
+git submodule add https://github.com/zipzapdat/AndroFish
+git submodule add https://github.com/ppelleti/AndFish
+git submodule add https://github.com/VelbazhdSoftwareLLC/RussianTripleForAndroid VelbazhdSoftwareLLC/RussianTripleForAndroid
+git submodule add https://github.com/VelbazhdSoftwareLLC/FishRingsForAndroid VelbazhdSoftwareLLC/FishRingsForAndroid
+git submodule add https://github.com/VelbazhdSoftwareLLC/Politrics VelbazhdSoftwareLLC/Politrics 
+git submodule add https://github.com/VelbazhdSoftwareLLC/tuty-fruty-slot-for-android VelbazhdSoftwareLLC/tuty-fruty-slot-for-android 
+git submodule add https://github.com/VelbazhdSoftwareLLC/android-vitosha-poker-odds android-vitosha-poker-odds/VelbazhdSoftwareLLC
+git submodule add https://github.com/six999/android-vitosha-poker-odds android-vitosha-poker-odds/six999
+git submodule add https://github.com/VelbazhdSoftwareLLC/FishRingsForAndroid
+git submodule add https://github.com/meoblast001/thugaim
+git submodule add https://github.com/jogordon/BomberMan-for-Android
+git submodule add https://github.com/jareens/dudo
+git submodule add https://github.com/ktom2135/CoreGame
+git submodule add https://github.com/krixisLv/ShootEmOff

@@ -1,0 +1,83 @@
+TTTris changelog
+
+*****************************
+v0.7-alpha - 27 Jan 2012 
+-Lots of fixes when rotating pieces left
+-High scores are now saved with date
+-Samall UI changes
+-Minor bugs fixed
+******************************
+
+
+*****************************
+v0.7-alpha - 27 Jan 2012 
+-Pieces can be rotated to the left (Unstable, needs testing)
+******************************
+
+
+*****************************
+v0.6-alpha - 27 Jan 2012 
+-High scores can now be seen from start screen 
+-Fixed several bugs when rotating pieces
+-Fixes several bugs on game over
+-Added vibration on somo events
+-Implemented pause button
+******************************
+
+
+*****************************
+v0.5-alpha - 26 Jan 2012 
+-Every piece can be rotated right
+-Fixed a bug when it impossible to rotate a piece
+-Initial score marker is set to 0
+-Game can be loose now
+-High scores are saved (but they can not be seen anywhere yet)
+******************************
+
+
+*****************************
+v0.4-alpha - 25 Jan 2012 
+-Added logo and application icon
+-Minor code improvements (get rid of Warnings)
+******************************
+
+
+*****************************
+v0.3-alpha - 24 Jan 2012 
+-Full rows vanishes
+-Score system added
+-Combo multiplier implemented
+******************************
+
+
+*****************************
+v0.2-alpha - 24 Jan 2012 
+-Fixed problems when moving pieces under some conditions
+-Fixed piece rotating for the 'L'-shaped piece
+-Code intensively commented
+-Started Spanish translation
+******************************
+
+
+*****************************
+v0.1.1-alpha - 24 Jan 2012 
+-Initial layout designed. 
+-Iconic buttons. 
+-Next piece image added.
+-Some other UI and layout improvements.
+******************************
+
+
+*****************************
+v0.1-alpha - 23 Jan 2012 
+-Game engine working. 
+-Pieces fall one after another (but they don't score, and game does never ends). 
+-They can be moved left and right.
+-The bar, the 'L'-shaped pieces and the box can be rotated to the right.
+******************************
+
+
+*****************************
+v0.0 - 21 Jan 2012
+-Projects starts.
+*****************************
