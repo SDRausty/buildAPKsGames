@@ -58,3 +58,9 @@
 [submodule "dudo"]
 	path = dudo
 	url = https://github.com/jareens/dudo
+[submodule "CoreGame"]
+	path = CoreGame
+	url = https://github.com/ktom2135/CoreGame
+[submodule "ShootEmOff"]
+	path = ShootEmOff
+	url = https://github.com/krixisLv/ShootEmOff
