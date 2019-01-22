@@ -7,9 +7,6 @@
 [submodule "gamemasterdice"]
 	path = gamemasterdice
 	url = https://github.com/ge0rg/gamemasterdice
-[submodule "BatteryLevel"]
-	path = BatteryLevel
-	url = https://github.com/rrelmy/BatteryLevel
 [submodule "rorist/Cowsay-android"]
 	path = rorist/Cowsay-android
 	url = https://github.com/rorist/Cowsay-android
@@ -19,9 +16,6 @@
 [submodule "rorist/android-reverse"]
 	path = rorist/android-reverse
 	url = https://github.com/rorist/android-reverse
-[submodule "com.mobilepearls/sokoban"]
-	path = com.mobilepearls/sokoban
-	url = https://github.com/mobilepearls/com.mobilepearls.sokoban
 [submodule "com.mobilepearls/memory"]
 	path = com.mobilepearls/memory
 	url = https://github.com/mobilepearls/com.mobilepearls.memory
