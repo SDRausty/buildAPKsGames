@@ -1,4 +1,8 @@
 # buildAPKsGames
+## [buildAPKsGames git repository](https://github.com/SDRausty/buildAPKsGames/) 
+
+## [buildAPKsGames website](https://sdrausty.github.io/buildAPKsGames/) 
+
 Android APK app sources that build in [Termux](https://termux.com) on Android. This repository is a submodule for [buildAPKs.](https://github.com/sdrausty/buildAPKs)
 
 ##### -r--r--r-- [setup.buildAPKs.bash](https://raw.githubusercontent.com/SDRausty/buildAPKs/master/setup.buildAPKs.bash)
@@ -18,8 +22,6 @@ Alternatively: To install this git repository in its' proper place, copy and pas
 ```
 
 cd && git clone https://github.com/sdrausty/buildAPKs
-
-~/buildAPKs/setup.buildAPKs.bash
 
 ~/buildAPKs/scripts/bash/build/buildGames.bash
 
