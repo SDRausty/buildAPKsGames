@@ -8,10 +8,14 @@ Android APK app sources that build in [Termux](https://termux.com) on Android. T
 ##### -r--r--r-- [setup.buildAPKs.bash](https://raw.githubusercontent.com/SDRausty/buildAPKs/master/setup.buildAPKs.bash)
 ##### -rwxrwxrwx [setup.buildAPKs.bash](https://buildAPKs.github.io/buildAPKs/setup.buildAPKs.bash) 
 
-Tap the link above (adjust download path if need be) or:
+Tap the link above, or:
 ```
 
 curl -O https://raw.githubusercontent.com/SDRausty/buildAPKs/master/setup.buildAPKs.bash
+
+```
+Then (adjust download path if need be) run:
+```
 
 bash /storage/emulated/0/Download/setup.buildAPKs.bash
 
