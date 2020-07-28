@@ -21,7 +21,7 @@ bash /storage/emulated/0/Download/setup.buildAPKs.bash
 Alternatively: To install this git repository in its' proper place, copy and paste the following into [Termux](https://github.com/termux).
 ```
 
-cd && git clone https://github.com/sdrausty/buildAPKs
+cd && git clone https://github.com/SDRausty/buildAPKs
 
 ~/buildAPKs/scripts/bash/build/buildGames.bash
 
