@@ -14,7 +14,7 @@ Tap the link above, or:
 curl -O https://raw.githubusercontent.com/SDRausty/buildAPKs/master/setup.buildAPKs.bash
 
 ```
-Then (adjust download path if need be) run:
+Then (adjust download path if needed and) run:
 ```
 
 bash /storage/emulated/0/Download/setup.buildAPKs.bash
